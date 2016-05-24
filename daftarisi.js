@@ -1,5 +1,5 @@
 var tabbedTOC_defaults = {
-	blogUrl: "http://dhaimaru.blogspot.com/", // Blog URL
+	blogUrl: "http://www.dioprek.com/", // Blog URL
 	containerId: "tabbed-toc", // Container ID
 	activeTab: 1, // The default active tab index (default: the first tab)
 	showDates: false, // true to show the post date
